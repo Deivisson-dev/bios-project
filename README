@@ -1,0 +1,22 @@
+Siga as instruções e coloque todos os arquivos em um mesmo diretório
+
+1. Baixar requirements.txt
+
+2. Executar o comando para instalar as dependencias
+pip install -r requirements.txt
+Obs.: é necessário ter o pip instalado em sua máquina
+
+3. Baixar os arquivos .txt (advanced.txt e bios.txt)
+Obs.:Estes arquivos NÃO precisam ser modificados
+
+4. Baixar os arquivos .py (bios.py, advanced.py e bios.py)
+Obs.: é necessário seguir as indicações de implementação presentes em cada arquivo
+
+================================
+Implementação
+================================
+1. Implemente o arquivo advanced.py
+
+2. Implemente o arquivo boot.py
+
+3. Implemente o arquivo bios.py
