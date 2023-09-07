@@ -52,6 +52,7 @@ def atualizar() :
 	tela()
 	end()
 
+
 def titulo() :
 	print(color + "Projeto BIOS".center(80))
 
@@ -70,6 +71,7 @@ def main_menu() :
 		print(f"{cursor}{color_selecionado}{main_string}", end="")
 	if (menu_ativo != 0) :
 		print(f"{cursor}{color_inativo}{main_string}", end="")
+
 
 def advanced_menu() :
 	advanced_string = " Advanced ".center(12)
